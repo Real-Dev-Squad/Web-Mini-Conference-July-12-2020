@@ -1,8 +1,7 @@
 # Web-Mini-Conference-July-12-2020
 Assets related to Web Mini-Conference, held on July 12, 2020
 
-#   Topics
---------------------------------------------------------------------------------------------------
+# Topics
 1. Async programming with JavaScript
 2. JavaScript concepts
 3. What the hell is this
